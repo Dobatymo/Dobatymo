@@ -4,13 +4,13 @@
 - [data-algos](https://github.com/Dobatymo/data-algos): An knowledge graph for data structures and algorithms in markdown format
 
 ## Apps
+- [picture-tool](https://github.com/Dobatymo/picture-tool): Very incomplete CLI/GUI app for picture management
 - [podcatcher](https://github.com/Dobatymo/podcatcher): Simple podcast downloader with web ui and cli
 - [desktop-search](https://github.com/Dobatymo/desktop-search): Full text source code search with web ui
 - [file-validator](https://github.com/Dobatymo/file-validator): Check files for errors by parsing them
 - [rocketbeanstv-mediathek-downloader](https://github.com/Dobatymo/rocketbeanstv-mediathek-downloader): Download files from Rocketbeans.tv with advanced selection and filtering options
 - [dewarp](https://github.com/Dobatymo/dewarp): Simple Wx GUI to do perspective distortion and binarization in images
 - [qb-tool](https://github.com/Dobatymo/qb-tool): CLI app for advanced torrent management with [qBittorrent](https://www.qbittorrent.org)
-- [picture-tool](https://github.com/Dobatymo/picture-tool): Very incomplete CLI app for picture management
 
 ## Wrappers / bindings
 - [ctypes-windows-sdk](https://github.com/Dobatymo/ctypes-windows-sdk): Very incomplete ctypes port of the Windows SDK
